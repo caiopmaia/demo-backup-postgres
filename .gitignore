@@ -1,0 +1,9 @@
+# Arquivo gerado pelo pg_dump durante a demo
+backup_loja.sql
+*.dump
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
